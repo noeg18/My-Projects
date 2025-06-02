@@ -110,7 +110,7 @@ Here is a demonstration of my own prototype that I made when I was first learnin
 
 Group-project-files/Nagat-prototype-gif.gif
 
-[my prototype](Group-project-files/Nagat-prototype-gif.gif)
+![my prototype](Group-project-files/Nagat-prototype-gif.gif)
 
 ### My main Contributions: 
 - End of round and game restart functionality
