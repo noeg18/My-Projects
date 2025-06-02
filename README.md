@@ -97,7 +97,7 @@ I wrote the below function in order to traverse through the tree deleting all ch
 
 
 ### What I learned: 
-- How to program rather than just code (first time working towards deliberately ambiguous instructions - difficult but worth it!:tada:)
+- How to program rather than just code (first time working towards deliberately ambiguous instructions - difficult but worth it! :tada:)
 - It is imporant to be intentional about design and how classes will interact from the beginning 
 - However, always be prepared to refactor significantly as you understand the objective more
 
