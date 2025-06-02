@@ -18,7 +18,7 @@ Hi :wave: I am Nagat and welcome to my 'My Projects' repository, in which I will
 Let's start with the most sizeable one:
 
 
-## Individual Summer Project and Dissertation: "Assessing Correctness in LLM-Based Code Generation" :books:
+## Individual Summer Project and Dissertation: "Assessing Correctness in LLM-Based Code Generation"
 
 I have chosen to tackle this topic for my summer project because I am passionate about ensuring emerging technologies are safe and reliable. I believe that investigating the accuracy of LLMs will be a great foundation in understanding their current state before potentially looking into societal implications in future projects. 
 
