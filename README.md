@@ -97,7 +97,7 @@ The below function was useful in finding the index of the child (element within 
     }
 ```
 
-I wrote the below function in order to traverse through the tree deleting all children after recieving a 'DELETE' command
+I wrote the below function in order to traverse through the tree deleting all children after receiving a 'DELETE' command
 ```
     public void deleteAllChildren(DBTreeNode root){
         if(root == null){
@@ -113,7 +113,7 @@ I wrote the below function in order to traverse through the tree deleting all ch
 
 ### What I learned: 
 - How to program rather than just code (first time working towards deliberately ambiguous instructions - difficult but worth it! :tada:)
-- It is imporant to be intentional about design and how classes will interact from the beginning 
+- It is important to be intentional about design and how classes will interact from the beginning 
 - However, always be prepared to refactor significantly as you understand the objective more
 
 
@@ -145,7 +145,7 @@ Here is a demonstration of my own (very simple) prototype that helped me first s
 - A bulk of report writing
 
 ### What we learned: 
-- Focus on sustainability and accessability from the very beginning
+- Focus on sustainability and accessibility from the very beginning
 - Prioritise technical challenges earlier in the project
 
 
