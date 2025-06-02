@@ -52,8 +52,10 @@ Takes SQL commands (according to a specific BNF) and stores the resulting tables
 Changes the data in the tree depending on the command
 Responds based on updated table data
 
+![java database gif](Java-database-project/db.gif)
+
 ### Main challenge: 
-Making sure files and data in tree both updated correctly, specifically for more challenging commands e.g. join
+Making sure files and data in tree both updated correctly, specifically for more challenging commands e.g. update
 
 
 ### What I learned: 
