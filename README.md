@@ -126,6 +126,8 @@ Here is a demonstration of my own (very simple) prototype that helped me first s
 
 ## Implement a Dictionary ADT (Abstract Data Type) in C
 
+![project brief photo](C-ADT-project-files/projectbriefimage.png)
+
 ### What it does:
 - Uses a 27-way Tree method to store words where each node (after the top one) corresponds to a letter.
 - counts words and nodes
