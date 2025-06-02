@@ -1,8 +1,8 @@
-# My projects!
-
-# Current projects 
+# My projects! 
 
 Hi :wave: I am Nagat and welcome to my 'My Projects' repository, in which I will be introducing the most exciting projects I have ever worked on. Most of these projects I have completed as part of my MSc Computer Science (Conversion) at the University of Bristol. Others, I have been working on in my own time to get stuck into the technologies and tools I am most interested in! 
+
+# Current projects 
 
 Let's start with the most sizeable one:
 
@@ -42,6 +42,7 @@ I am not only interested in investigating how well these models work but also ho
 Finish building, train and test the model 
 
 
+
 # Past projects
 
 
@@ -52,9 +53,11 @@ Finish building, train and test the model
 - Changes the data in the tree depending on the command
 - Responds based on updated table data
 
+The below shows the server in action:
+
 ![java database gif](Java-database-project/db.gif)
 
-The above demonstrates the challenge of ensuring all commands were handled as case-insensitive
+It also demonstrates the challenge of ensuring all commands were handled as case-insensitive
 
 ### Main challenge: 
 Making sure files and data in tree both updated correctly, specifically for more challenging commands e.g. update
@@ -87,9 +90,35 @@ I wrote the below function in order to traverse through the tree deleting all ch
 
 
 ### What I learned: 
-- How to program rather than just code (first time working towards deliberately ambiguous instructions - difficult but worth it!)
+- How to program rather than just code (first time working towards deliberately ambiguous instructions - difficult but worth it!:tada:)
 - It is imporant to be intentional about design and how classes will interact from the beginning 
 - However, always be prepared to refactor significantly as you understand the objective more
+
+
+## Group Project: Used Software Engineering principles to develop and deploy a P5js game (HEX WARS)
+
+[Check out our group's repo](https://github.com/UoB-COMSM0166/2025-group-7)
+[Play the game!](https://uob-comsm0166.github.io/2025-group-7/)
+
+I did many things for the first time as part of this project. From working according to an Agile life cycle (taking part in sprints, reviews and retrospectives), Extreme Programming, to using Git in practice. 
+
+### Main personal challenge: Learn how to code in JavaScript and integrate individuals' code
+
+We decided as a team to develop our own individual implementations so we could all get to grips with JavaScript (Which we were all unfamiliar with)
+Here is a demonstration of my own prototype that I made when I was first learning the language:
+
+
+
+
+### My main Contributions: 
+- End of round and game restart functionality
+- Tank destroy animations
+- Saw weapon design and functionality
+- A bulk of report writing
+
+### What we learned: 
+- Focus on sustainability and accessability from the very beginning
+- draft design technical challenges earlier in the project
 
 
 
