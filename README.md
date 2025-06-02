@@ -48,20 +48,48 @@ Finish building, train and test the model
 ## Built a relational database server in Java that handles SQL commands
 
 ### What it does: 
-Takes SQL commands (according to a specific BNF) and stores the resulting tables/databases in a tree (creates database files as needed)
-Changes the data in the tree depending on the command
-Responds based on updated table data
+-Takes SQL commands (according to a specific BNF) and stores the resulting tables/databases in a tree (creates database files as needed)
+-Changes the data in the tree depending on the command
+-Responds based on updated table data
 
 ![java database gif](Java-database-project/db.gif)
+
+The above demonstrates the challenge of ensuring all commands were handled as case-insensitive
 
 ### Main challenge: 
 Making sure files and data in tree both updated correctly, specifically for more challenging commands e.g. update
 
+The below function was useful in finding the index of the child (element within a table) to update it cleanly
+
+```
+    public int getChildNumber(DBTreeNode parent, DBTreeNode child){
+        for(int i = 0 ; i < next.size() ; i++) {
+            if (parent.next.get(i) == child) {
+                return parent.next.indexOf(child);
+            }
+        }
+        return 0;
+    }
+```
+
+I wrote the below function in order to traverse through the tree deleting all children after recieving a 'DELETE' command
+```
+    public void deleteAllChildren(DBTreeNode root){
+        if(root == null){
+            return;
+        }
+        for(int i = 0 ; i < root.next.size() ; i++) {
+            deleteAllChildren(root.next.get(i));
+        }
+        parent.next.remove(root);
+    }
+```
+
 
 ### What I learned: 
-How to program rather than just code (first time working towards deliberately ambiguous instructions - difficult but worth it!)
-It is imporant to be intentional about design and how classes will interact from the beginning 
-However, always be prepared to refactor significantly as you understand the objective more
+-How to program rather than just code (first time working towards deliberately ambiguous instructions - difficult but worth it!)
+-It is imporant to be intentional about design and how classes will interact from the beginning 
+-However, always be prepared to refactor significantly as you understand the objective more
 
 
 
