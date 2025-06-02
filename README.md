@@ -55,6 +55,8 @@ Finish building, train and test the model
 
 ## Built a relational database server in Java that handles SQL commands
 
+[link to the code](Java-database-project/Project)
+
 ### What it does: 
 - Takes SQL commands (according to a specific BNF) and stores the resulting tables/databases in a tree (creates database files as needed)
 - Changes the data in the tree depending on the command
@@ -120,6 +122,8 @@ Here is a demonstration of my own (very simple) prototype that helped me first s
 ![my prototype](Group-project-files/Nagat-prototype-gif.gif)
 
 
+[link to the code for my prototype](Group-project-files/My-prototype)
+
 ### My main contributions: 
 - End of round and game restart functionality
 - Tank destroy animations
@@ -132,6 +136,8 @@ Here is a demonstration of my own (very simple) prototype that helped me first s
 
 
 ## Implement a Dictionary ADT (Abstract Data Type) in C
+
+[link to the code](C-ADT-project-files/C-project)
 
 ![project brief photo](C-ADT-project-files/projectbriefimage.png)
 
