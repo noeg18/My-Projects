@@ -2,6 +2,15 @@
 
 Hi :wave: I am Nagat and welcome to my 'My Projects' repository, in which I will be introducing the most exciting projects I have worked on. Most of these projects I have completed as part of my MSc Computer Science (Conversion) at the University of Bristol. Others, I have been working on in my own time to get stuck into the technologies and tools I am most interested in! 
 
+## 📑 Table of Contents
+
+- [Dissertation "Assessing Correctness in LLM-Based Code Generation"](#Dissertation/Individual Summer Project: "Assessing Correctness in LLM-Based Code Generation" :books:)
+- [Python Tensorflow Chatbot Framework](#Building a contextual chatbot framework using Tensorflow)
+- [Java Relational Database](# Built a relational database server in Java that handles SQL commands)
+- [JavaScript Group Project](# Group Project: Used Software Engineering principles to develop and deploy a P5js game (HEX WARS))
+- [C Dictionary ADT (Trees and Linked List)](#Implemented a Dictionary ADT (Abstract Data Type) in C)
+
+
 # Current projects 
 
 Let's start with the most sizeable one:
@@ -135,7 +144,7 @@ Here is a demonstration of my own (very simple) prototype that helped me first s
 - draft design technical challenges earlier in the project
 
 
-## Implement a Dictionary ADT (Abstract Data Type) in C
+## Implemented a Dictionary ADT (Abstract Data Type) in C
 
 [link to the code](C-ADT-project-files/C-project)
 
