@@ -98,6 +98,7 @@ I wrote the below function in order to traverse through the tree deleting all ch
 ## Group Project: Used Software Engineering principles to develop and deploy a P5js game (HEX WARS)
 
 [Check out our group's repo](https://github.com/UoB-COMSM0166/2025-group-7)
+
 [Play the game!](https://uob-comsm0166.github.io/2025-group-7/)
 
 I did many things for the first time as part of this project. From working according to an Agile life cycle (taking part in sprints, reviews and retrospectives), Extreme Programming, to using Git in practice. 
@@ -107,8 +108,9 @@ I did many things for the first time as part of this project. From working accor
 We decided as a team to develop our own individual implementations so we could all get to grips with JavaScript (Which we were all unfamiliar with)
 Here is a demonstration of my own prototype that I made when I was first learning the language:
 
+Group-project-files/Nagat-prototype-gif.gif
 
-
+[my prototype](Group-project-files/Nagat-prototype-gif.gif)
 
 ### My main Contributions: 
 - End of round and game restart functionality
