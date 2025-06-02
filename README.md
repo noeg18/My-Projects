@@ -68,7 +68,7 @@ Finish building, train and test the model
 
 ## Built a relational database server in Java that handles SQL commands
 
-[link to the code](Java-database-project/Project)
+[link to the code](Java-database-project/Project/src/main/java/edu/uob)
 
 ### What it does: 
 - Takes SQL commands (according to a specific BNF) and stores the resulting tables/databases in a tree (creates database directories and table files as needed)
