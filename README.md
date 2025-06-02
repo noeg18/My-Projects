@@ -1,6 +1,6 @@
 # My projects! 
 
-Hi :wave: I am Nagat and welcome to my 'My Projects' repository, in which I will be introducing the most exciting projects I have ever worked on. Most of these projects I have completed as part of my MSc Computer Science (Conversion) at the University of Bristol. Others, I have been working on in my own time to get stuck into the technologies and tools I am most interested in! 
+Hi :wave: I am Nagat and welcome to my 'My Projects' repository, in which I will be introducing the most exciting projects I have worked on. Most of these projects I have completed as part of my MSc Computer Science (Conversion) at the University of Bristol. Others, I have been working on in my own time to get stuck into the technologies and tools I am most interested in! 
 
 # Current projects 
 
