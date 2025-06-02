@@ -1,6 +1,6 @@
 # My projects! 
 
-Hi :wave: I am Nagat and welcome to my 'My Projects' repository, in which I will be introducing the most exciting projects I have worked on. Most of these projects I have completed as part of my MSc Computer Science (Conversion) at the University of Bristol. Others, I have been working on in my own time to get stuck into the technologies and tools I am most interested in! 
+Hi :wave: I am Nagat and welcome to this repository, in which I will be introducing the most exciting projects I have worked on. Most of these projects I have completed as part of my MSc Computer Science (Conversion) at the University of Bristol. Others I have been working on in my own time to get stuck into the technologies and tools I am most interested in! 
 
 ## 📑 Table of Contents
 
@@ -9,7 +9,6 @@ Hi :wave: I am Nagat and welcome to my 'My Projects' repository, in which I will
 - [Java Relational Database](#built-a-relational-database-server-in-java-that-handles-sql-commands)
 - [JavaScript Group Project (HEX WARS)](#group-project-used-software-engineering-principles-to-develop-and-deploy-a-p5js-game-hex-wars)
 - [C Dictionary ADT (Trees and Linked List)](#implemented-a-dictionary-adt-abstract-data-type-in-c)
-
 
 
 
@@ -30,7 +29,7 @@ I have read many papers around the topic to understand how accuracy has been eva
 |------------------------------------|----------------------------------------------------|
 | Assessing Correctness in LLM-Based Code Generation via Uncertainty Estimation (Sharma, David)  | Estimating uncertainty across semantically equivalent clusters makes estimating uncertainty more accurate
 | Towards Translating Real-World Code with LLMs: A Study of Translating to Rust (Eniser et al.) | Temperature parameter is used by LLMs themselves to control randomness |
-| Enhancing SQL Query Generation with Neurosymbolic Reasoning (Princis et al.) | Reading this paper led to me having an interesting discussion with my supervisor about whether positive research on neuro-symbolic architecture will lead to its adoption  |
+| Enhancing SQL Query Generation with Neurosymbolic Reasoning (Princis et al.) | Reading this paper led to me having an interesting discussion with my supervisor about whether positive research on neuro-symbolic architecture will lead to its widespread adoption  |
 | Detecting hallucinations in large language models using semantic entropy (Farquhar et al.) | The distinction of confabulations and their contribution to LLM inaccuracy |
 
 
@@ -45,7 +44,7 @@ I have read many papers around the topic to understand how accuracy has been eva
 
 ## Building a contextual chatbot framework using Tensorflow
 
-I am not only interested in investigating how well these models work but also how they are built under the hood. That is why I have taken on the challenge of building a chatbot in my own time. I also want to put my python skills to the test. It is already proving to be very interesting!
+I am not only interested in investigating how well these models work but also how they are built under the hood. That is why I have taken on the challenge of building a chatbot in my own time. I am also excited to put my python skills to the test.
 
 ### What I have done so far:
 
@@ -72,7 +71,7 @@ Finish building, train and test the model
 [link to the code](Java-database-project/Project)
 
 ### What it does: 
-- Takes SQL commands (according to a specific BNF) and stores the resulting tables/databases in a tree (creates database files as needed)
+- Takes SQL commands (according to a specific BNF) and stores the resulting tables/databases in a tree (creates database directories and table files as needed)
 - Changes the data in the tree depending on the command
 - Responds based on updated table data
 
@@ -125,11 +124,11 @@ I wrote the below function in order to traverse through the tree deleting all ch
 
 [Play the game!](https://uob-comsm0166.github.io/2025-group-7/)
 
-I did many things for the first time as part of this project. From working according to an Agile life cycle (taking part in sprints, reviews and retrospectives), Extreme Programming, to using Git in practice. 
+I did many things for the first time as part of this project. For example, working according to an Agile SDLC (taking part in sprints, reviews and retrospectives), practicing Extreme Programming, and using Git in practice. 
 
-### Main personal challenge: Learn how to code in JavaScript and integrate individuals' code
+### Main personal challenge: Learn how to code in JavaScript and integrate code with other group members'
 
-We decided as a team to develop our own individual implementations so we could all get to grips with JavaScript (which we were all unfamiliar with).
+We decided as a team to develop our own individual implementations so we could all get to grips with JavaScript (which we were unfamiliar with).
 
 Here is a demonstration of my own (very simple) prototype that helped me first start learning the language:
 
@@ -147,7 +146,7 @@ Here is a demonstration of my own (very simple) prototype that helped me first s
 
 ### What we learned: 
 - Focus on sustainability and accessability from the very beginning
-- draft design technical challenges earlier in the project
+- Prioritise technical challenges earlier in the project
 
 
 
@@ -160,7 +159,7 @@ Here is a demonstration of my own (very simple) prototype that helped me first s
 ### What it does:
 - Uses a 27-way Tree method to store words where each node (after the top one) corresponds to a letter.
 - counts words and nodes
-- compares length of words and autocompletes
+- compares lengths of words and autocompletes
 
 The below function frees all the allocated data at the end of the program:
 
@@ -179,7 +178,7 @@ void dict_free(dict** p)
 }
 ```
 
-### Main Challenge: Implementing the project again using datatype of my choice (I chose a singly-linked list)
+### Main Challenge: Implementing the project again using a datatype of my choice (singly-linked list)
 
 ### What I learned:
 
