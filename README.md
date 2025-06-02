@@ -14,6 +14,15 @@ I have chosen to tackle this topic for my summer project because I am passionate
 
 I have read many papers around the topic to understand how accuracy has been evaluated in the past:
 
+| Paper                          | What I Found Interesting                            |
+|------------------------------------|----------------------------------------------------|
+| Assessing Correctness in LLM-Based Code Generation via Uncertainty Estimation          | Key insight or point that caught your attention (Sharma, David)   | Estimating uncertainty across semantically equivalent clusters makes estimating uncertainty more accurate
+| Towards Translating Real-World Code with LLMs:
+A Study of Translating to Rust (Eniser et al.)     | Temperature parameter is used by LLMs themselves to control randomness             |
+| Enhancing SQL Query Generation with Neurosymbolic
+Reasoning   (Princis et al.)       | Reading this paper led to me having an interesting discussion with my supervisor about whether positive research on neuro-symbolic architecture will lead to its adoption  |
+| Detecting hallucinations in large language models using semantic entropy (Farquhar et al.)                        | The distinction of confabulations and their contribution to LLM inaccuracy |
+
 
 ### Next Steps
 
