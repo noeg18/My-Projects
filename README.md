@@ -113,7 +113,7 @@ Here is a demonstration of my own (very simple) prototype that helped me first s
 ![my prototype](Group-project-files/Nagat-prototype-gif.gif)
 
 
-### My main Contributions: 
+### My main contributions: 
 - End of round and game restart functionality
 - Tank destroy animations
 - Saw weapon design and functionality
@@ -122,6 +122,38 @@ Here is a demonstration of my own (very simple) prototype that helped me first s
 ### What we learned: 
 - Focus on sustainability and accessability from the very beginning
 - draft design technical challenges earlier in the project
+
+
+## Implement a Dictionary ADT (Abstract Data Type) in C
+
+### What it does:
+- Uses a 27-way Tree method to store words where each node (after the top one) corresponds to a letter.
+- counts words and nodes
+- compares length of words and autocompletes
+
+The below function frees all the allocated data at the end of the program:
+
+```
+void dict_free(dict** p)
+{
+   if(*p == NULL){
+      return;
+   }
+       
+   for(int i = 0; i < ALPHA; i++){
+      dict_free(&((*p)->dwn[i]));       
+   }
+   free(*p);
+   *p = NULL;
+}
+```
+
+### Main Challenge: Implementing the project again using with a different datatype (I chose a singly-linked list)
+
+### What I learned:
+
+> I learned that the 27-way tree approach is far more efficient than my implementation of the linked list. This is because the 27-way tree is only as deep as the amount of letters in the longest word in the dictionary. Conversely, the linked list is as long as the number of unique words in the dictionary.
+> In future, I would favour the 27-way tree approach to this question over a singly-linked list. However, I would like to try hashing or a different kind of tree to find an overall more efficient approach than the 27-way tree.  
 
 
 
