@@ -35,7 +35,7 @@ I have read many papers around the topic to understand how accuracy has been eva
 
 ### Next Steps
 
-1. Learn how to extract log probabilities for tokens
+1. Learn how to extract LLM-reported log probabilities
 2. Choose an evaluation technique
 
 *Watch this space!* I will be working on this project until September 2025 so prepare for this summary to develop immensely :star_struck:
