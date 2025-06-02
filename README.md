@@ -105,12 +105,13 @@ I did many things for the first time as part of this project. From working accor
 
 ### Main personal challenge: Learn how to code in JavaScript and integrate individuals' code
 
-We decided as a team to develop our own individual implementations so we could all get to grips with JavaScript (Which we were all unfamiliar with)
-Here is a demonstration of my own prototype that I made when I was first learning the language:
+We decided as a team to develop our own individual implementations so we could all get to grips with JavaScript (which we were all unfamiliar with).
 
-Group-project-files/Nagat-prototype-gif.gif
+Here is a demonstration of my own (very simple) prototype that helped me first start learning the language:
+
 
 ![my prototype](Group-project-files/Nagat-prototype-gif.gif)
+
 
 ### My main Contributions: 
 - End of round and game restart functionality
