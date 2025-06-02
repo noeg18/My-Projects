@@ -4,11 +4,12 @@ Hi :wave: I am Nagat and welcome to my 'My Projects' repository, in which I will
 
 ## 📑 Table of Contents
 
-- [Dissertation "Assessing Correctness in LLM-Based Code Generation"](#Dissertation/Individual-Summer-Project:-"Assessing-Correctness-in-LLM-Based-Code-Generation"-:books:)
-- [Python Tensorflow Chatbot Framework](#Building-a-contextual-chatbot-framework-using-Tensorflow)
-- [Java Relational Database](#Built-a-relational-database-server-in-Java-that-handles-SQL-commands)
-- [JavaScript Group Project](#Group-Project:-Used-Software-Engineering-principles-to-develop-and-deploy-a-P5js-game (HEX WARS))
-- [C Dictionary ADT (Trees and Linked List)](#Implemented-a-Dictionary-ADT-(Abstract-Data-Type)-in-C)
+- [Dissertation "Assessing Correctness in LLM-Based Code Generation"](#dissertationindividual-summer-project-assessing-correctness-in-llm-based-code-generation)
+- [Python Tensorflow Chatbot Framework](#building-a-contextual-chatbot-framework-using-tensorflow)
+- [Java Relational Database](#built-a-relational-database-server-in-java-that-handles-sql-commands)
+- [JavaScript Group Project (HEX WARS)](#group-project-used-software-engineering-principles-to-develop-and-deploy-a-p5js-game-hex-wars)
+- [C Dictionary ADT (Trees and Linked List)](#implemented-a-dictionary-adt-abstract-data-type-in-c)
+
 
 
 # Current projects 
