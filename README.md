@@ -12,9 +12,11 @@ Hi :wave: I am Nagat and welcome to my 'My Projects' repository, in which I will
 
 
 
+
 # Current projects 
 
 Let's start with the most sizeable one:
+
 
 ## Dissertation/Individual Summer Project: "Assessing Correctness in LLM-Based Code Generation" :books:
 
@@ -40,6 +42,7 @@ I have read many papers around the topic to understand how accuracy has been eva
 *Watch this space!* I will be working on this project until September 2025 so prepare for this summary to develop immensely :star_struck:
 
 
+
 ## Building a contextual chatbot framework using Tensorflow
 
 I am not only interested in investigating how well these models work but also how they are built under the hood. That is why I have taken on the challenge of building a chatbot in my own time. I also want to put my python skills to the test. It is already proving to be very interesting!
@@ -57,6 +60,7 @@ I am not only interested in investigating how well these models work but also ho
 ### Next steps
 
 Finish building, train and test the model 
+
 
 
 
@@ -114,6 +118,7 @@ I wrote the below function in order to traverse through the tree deleting all ch
 - However, always be prepared to refactor significantly as you understand the objective more
 
 
+
 ## Group Project: Used Software Engineering principles to develop and deploy a P5js game (HEX WARS)
 
 [Check out our group's repo](https://github.com/UoB-COMSM0166/2025-group-7)
@@ -143,6 +148,7 @@ Here is a demonstration of my own (very simple) prototype that helped me first s
 ### What we learned: 
 - Focus on sustainability and accessability from the very beginning
 - draft design technical challenges earlier in the project
+
 
 
 ## Implemented a Dictionary ADT (Abstract Data Type) in C
