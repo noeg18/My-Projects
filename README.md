@@ -2,7 +2,7 @@
 
 # Current projects 
 
-Hi :wave: I am Nagat and Welcome to my 'My Projects' repository, in which I will be introducing the most exciting projects I have ever worked on. Most of these projects I have completed as part of my MSc Computer Science (Conversion) at the University of Bristol. Others, I have been working on in my own time to get stuck into the technologies and tools I am most interested in! 
+Hi :wave: I am Nagat and welcome to my 'My Projects' repository, in which I will be introducing the most exciting projects I have ever worked on. Most of these projects I have completed as part of my MSc Computer Science (Conversion) at the University of Bristol. Others, I have been working on in my own time to get stuck into the technologies and tools I am most interested in! 
 
 Let's start with the most sizeable one:
 
@@ -48,9 +48,9 @@ Finish building, train and test the model
 ## Built a relational database server in Java that handles SQL commands
 
 ### What it does: 
--Takes SQL commands (according to a specific BNF) and stores the resulting tables/databases in a tree (creates database files as needed)
--Changes the data in the tree depending on the command
--Responds based on updated table data
+- Takes SQL commands (according to a specific BNF) and stores the resulting tables/databases in a tree (creates database files as needed)
+- Changes the data in the tree depending on the command
+- Responds based on updated table data
 
 ![java database gif](Java-database-project/db.gif)
 
@@ -87,9 +87,9 @@ I wrote the below function in order to traverse through the tree deleting all ch
 
 
 ### What I learned: 
--How to program rather than just code (first time working towards deliberately ambiguous instructions - difficult but worth it!)
--It is imporant to be intentional about design and how classes will interact from the beginning 
--However, always be prepared to refactor significantly as you understand the objective more
+- How to program rather than just code (first time working towards deliberately ambiguous instructions - difficult but worth it!)
+- It is imporant to be intentional about design and how classes will interact from the beginning 
+- However, always be prepared to refactor significantly as you understand the objective more
 
 
 
