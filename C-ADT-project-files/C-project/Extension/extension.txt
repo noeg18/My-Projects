@@ -1,0 +1,8 @@
+I chose the method of a singly-linked list for my extension. Before I embarked on this, I had a few hypotheses. Firstly, that the linked list approach would be more intuitive for the programmer, than the 27-way tree, and that this would potentially mean a simpler implementation and less risk of bugs. Secondly, the linked list could be more efficient, as the programmer does not have to search through an entire array that may not be filled up. 
+
+Through this extension I learned that the 27-way tree approach is far more efficient than my implementation of the linked list. This is because the 27-way tree is only as deep as the amount of letters in the longest word in the dictionary. Conversely, the linked list is as long as the number of unique words in the dictionary. This causes my extension program to run much slower than the t27 program. When checking if a word has already been added to the linked list, the function has to traverse through vastly more nodes, which is a much less efficient search. 
+
+I maintain the accuracy of my first hypothesis as the linked list was faster to actually implement, uses less functions, and was more intuitive for me, the programmer.  However,  I believe the user would value speed and memory usage over this, which the 27-way tree is superior in. Overall, the linked list was more advantageous in its simplicity and therefore, more testable functions.
+
+In future, I would favour the 27-way tree approach to this question over a singly-linked list. However, I would like to try hashing or a different kind of tree to find an overall more efficient approach than the 27-way tree.  
+
