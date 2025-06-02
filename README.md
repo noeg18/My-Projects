@@ -157,7 +157,7 @@ void dict_free(dict** p)
 }
 ```
 
-### Main Challenge: Implementing the project again using with a different datatype (I chose a singly-linked list)
+### Main Challenge: Implementing the project again using datatype of my choice (I chose a singly-linked list)
 
 ### What I learned:
 
