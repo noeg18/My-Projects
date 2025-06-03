@@ -44,6 +44,8 @@ I have read many papers around the topic to understand how accuracy has been eva
 
 ## Building a contextual chatbot framework using Tensorflow
 
+[link to the code](Chatbot-project/chatbot)
+
 I am not only interested in investigating how well these models work but also how they are built under the hood. That is why I have taken on the challenge of building a chatbot in my own time. I am also excited to put my python skills to the test.
 
 ### What I have done so far:
