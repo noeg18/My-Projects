@@ -58,6 +58,25 @@ I am not only interested in investigating how well these models work but also ho
 2. Build chatbot framework
  - Used bag-of-words method to tokenise user input
 
+```
+# bag-of-words for each sentence 
+for doc in documents:
+    #initialise bag-of-words
+    bag = []
+    #list of tokenised words for every pattern
+    pattern_words = doc[0]
+    # stem every word
+    pattern_words = [stemmer.stem(word.lower()) for word in pattern_word]
+    # create array for bag-of-words
+    for w in words:
+        bag.append(1) if tokenised_word in pattern_words else bag.append(0)
+    
+    output_row = list(empty_output)
+    output_row[classes.index(doc[1])] = 1
+    
+    training.append([bag, output_row])
+```
+
 ### Next steps
 
 Finish building, train and test the model 
