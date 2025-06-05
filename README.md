@@ -23,7 +23,7 @@ I have chosen to tackle this topic for my summer project because I am passionate
 
 ### What I have done so far 
 
-I have read many papers around the topic to understand how accuracy has been evaluated in the past:
+I have read many papers around the topic to understand how correctness has been evaluated in the past:
 
 | Paper                          | What I Found Interesting                            |
 |------------------------------------|----------------------------------------------------|
@@ -35,8 +35,7 @@ I have read many papers around the topic to understand how accuracy has been eva
 
 ### Next Steps
 
-1. Learn how to extract LLM-reported log probabilities
-2. Choose an evaluation technique
+Implementation and evaluation
 
 *Watch this space!* I will be working on this project until September 2025 so prepare for this summary to develop immensely :star_struck:
 
