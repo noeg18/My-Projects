@@ -7,7 +7,7 @@ Hi :wave: I am Nagat and welcome to the repository in which I will be introducin
 - [Dissertation "Assessing Correctness in LLM-Based Code Generation"](#individual-summer-project-and-dissertation-assessing-correctness-in-llm-based-code-generation)
 - [Python Tensorflow Chatbot Framework](#building-a-contextual-chatbot-framework-using-tensorflow)
 - [Java Relational Database](#built-a-relational-database-server-in-java-that-handles-sql-commands)
-- [JavaScript Group Project (HEX WARS)](#group-project-used-software-engineering-principles-to-develop-and-deploy-a-p5js-game-hex-wars)
+- [JavaScript Software Engineering Group Project (HEX WARS)](#group-project-used-software-engineering-principles-to-develop-and-deploy-a-p5js-game-hex-wars)
 - [C Dictionary ADT (Trees and Linked List)](#implemented-a-dictionary-adt-abstract-data-type-in-c)
 
 
