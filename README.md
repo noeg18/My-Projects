@@ -1,6 +1,6 @@
 # My projects! 
 
- Welcome :wave:to the repository in which I will be introducing the most exciting projects I have worked on as part of my MSc Computer Science (Conversion) at the University of Bristol.
+ Welcome! :wave: In this repository I will be introducing the most exciting projects I have worked on as part of my MSc Computer Science (Conversion) at the University of Bristol.
 
 ## 📑 Table of Contents
 
@@ -11,10 +11,9 @@
 
 
 
-
 ## Individual Summer Project and Dissertation: "Assessing Correctness in LLM-Based Code Generation"
 
-I have chosen to tackle this topic for my summer project because I am passionate about ensuring emerging technologies are safe and reliable. I believe that investigating the accuracy of LLMs will be a great foundation in understanding their current state before potentially looking into societal implications in future projects. 
+I chose to tackle this topic for my summer project because I am passionate about ensuring emerging technologies are safe and reliable. I believe that investigating the accuracy of LLMs will be a great foundation in understanding their current state before looking into societal implications in future projects. 
 
 The purpose of this project is to introduce a novel and effective way for determining the correctness of LLM responses that can be integrated into LLMs themselves.
 
