@@ -1,20 +1,15 @@
 # My projects! 
 
-Hi :wave: I am Nagat and welcome to the repository in which I will be introducing the most exciting projects I have worked on. Most of these projects I have completed as part of my MSc Computer Science (Conversion) at the University of Bristol. Others I have been working on in my own time to get stuck into the technologies and tools I am most interested in! 
+ Welcome :wave:to the repository in which I will be introducing the most exciting projects I have worked on as part of my MSc Computer Science (Conversion) at the University of Bristol.
 
 ## 📑 Table of Contents
 
 - [Dissertation "Assessing Correctness in LLM-Based Code Generation"](#individual-summer-project-and-dissertation-assessing-correctness-in-llm-based-code-generation)
-- [Python Tensorflow Chatbot Framework](#building-a-contextual-chatbot-framework-using-tensorflow)
 - [Java Relational Database](#built-a-relational-database-server-in-java-that-handles-sql-commands)
 - [JavaScript Software Engineering Group Project (HEX WARS)](#group-project-used-software-engineering-principles-to-develop-and-deploy-a-p5js-game-hex-wars)
 - [C Dictionary ADT (Trees and Linked List)](#implemented-a-dictionary-adt-abstract-data-type-in-c)
 
 
-
-# Current projects 
-
-Let's start with the most sizeable one:
 
 
 ## Individual Summer Project and Dissertation: "Assessing Correctness in LLM-Based Code Generation"
@@ -47,53 +42,6 @@ The purpose of this project is to introduce a novel and effective way for determ
 Tools/technologies used: Python (including NumPy, SCiPy and Pandas), Jupyter Notebooks, AWS Sagemaker, OpenAI API, HuggingFace API, Bleu, CodeBleu, Pearson Correlation Coefficient 
 
 [Find project repo/code here](https://github.com/noeg18/COMSM3201-MSc-Project-Computer-Science)
-
-
-
-
-## Building a contextual chatbot framework using Tensorflow
-
-[link to the code](Chatbot-project/chatbot)
-
-I am not only interested in investigating how well these models work but also how they are built under the hood. That is why I have taken on the challenge of building a chatbot in my own time. I am also excited to put my python skills to the test.
-
-### What I have done so far:
-
-1. Intent definitions -> Tensorflow model
- - Created classes defining conversational intents (holding tags, patterns and responses)
- - Created classes of words within documents (learned about stemmed words and how they make up sentences)
- - Shuffled and split this training data to mitigate bias
-
-2. Build chatbot framework
- - Used bag-of-words method to tokenise user input
-
-```
-# bag-of-words for each sentence 
-for doc in documents:
-    #initialise bag-of-words
-    bag = []
-    #list of tokenised words for every pattern
-    pattern_words = doc[0]
-    # stem every word
-    pattern_words = [stemmer.stem(word.lower()) for word in pattern_word]
-    # create array for bag-of-words
-    for w in words:
-        bag.append(1) if tokenised_word in pattern_words else bag.append(0)
-    
-    output_row = list(empty_output)
-    output_row[classes.index(doc[1])] = 1
-    
-    training.append([bag, output_row])
-```
-
-### Next steps
-
-Finish building, train and test the model 
-
-
-
-
-# Past projects
 
 
 ## Built a relational database server in Java that handles SQL commands
